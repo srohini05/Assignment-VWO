@@ -1,0 +1,161 @@
+node_modules/framer/resource.d.ts
+node_modules/framer/package.json
+node_modules/framer/node_modules/react/package.json
+node_modules/framer/node_modules/react/index.d.ts
+node_modules/framer/node_modules/react/global.d.ts
+node_modules/framer/node_modules/prop-types/package.json
+node_modules/framer/node_modules/prop-types/index.d.ts
+node_modules/framer/node_modules/framer-motion/package.json
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/package.json
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/value-types/units.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/value-types/numbers.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/value-types/complex.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/value-types/color.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/utils.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/types.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/lib/index.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/value-types/units.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/value-types/numbers.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/value-types/complex.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/value-types/color.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/utils.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/types.d.ts
+node_modules/framer/node_modules/framer-motion/node_modules/style-value-types/dist/index.d.ts
+node_modules/framer/node_modules/framer-motion/dist/framer-motion.d.ts
+node_modules/framer/node_modules/csstype/package.json
+node_modules/framer/node_modules/csstype/index.d.ts
+node_modules/framer/build/framer.js.map
+node_modules/framer/build/framer.js
+node_modules/framer/build/framer.debug.js.map
+node_modules/framer/build/framer.debug.js
+node_modules/framer/build/framer.d.ts
+node_modules/framer/build/framer.api.json
+node_modules/framer/README.md
+node_modules/framer/LICENSE.md
+node_modules/framer/CHANGELOG.md
+node_modules/@framer/tishogeorgiev.switch/tsconfig.json
+node_modules/@framer/tishogeorgiev.switch/package.json
+node_modules/@framer/tishogeorgiev.switch/metadata/icon.png
+node_modules/@framer/tishogeorgiev.switch/metadata/artwork.png
+node_modules/@framer/tishogeorgiev.switch/dist/index.js
+node_modules/@framer/tishogeorgiev.switch/design/document.json
+node_modules/@framer/tishogeorgiev.switch/code/utils/styleParsing.ts
+node_modules/@framer/tishogeorgiev.switch/code/utils/randomID.ts
+node_modules/@framer/tishogeorgiev.switch/code/utils/propNameHelpers.ts
+node_modules/@framer/tishogeorgiev.switch/code/utils/pick.ts
+node_modules/@framer/tishogeorgiev.switch/code/utils/omit.ts
+node_modules/@framer/tishogeorgiev.switch/code/utils/nodeHelpers.ts
+node_modules/@framer/tishogeorgiev.switch/code/utils/extractEventHandlersFromProps.ts
+node_modules/@framer/tishogeorgiev.switch/code/utils/equalizeArrayLength.ts
+node_modules/@framer/tishogeorgiev.switch/code/utils/calculateRect.ts
+node_modules/@framer/tishogeorgiev.switch/code/utils/addAnimatableWrapperToNodeIfNeeded.tsx
+node_modules/@framer/tishogeorgiev.switch/code/useWhyDidYouUpdate.ts
+node_modules/@framer/tishogeorgiev.switch/code/transitions.ts
+node_modules/@framer/tishogeorgiev.switch/code/thumbnailStyles.ts
+node_modules/@framer/tishogeorgiev.switch/code/store/keyStore.ts
+node_modules/@framer/tishogeorgiev.switch/code/store/globalStore.ts
+node_modules/@framer/tishogeorgiev.switch/code/placeholderState.tsx
+node_modules/@framer/tishogeorgiev.switch/code/index.ts
+node_modules/@framer/tishogeorgiev.switch/code/hooks/useLongPress.ts
+node_modules/@framer/tishogeorgiev.switch/code/hooks/useDoubleTap.ts
+node_modules/@framer/tishogeorgiev.switch/code/controls.ts
+node_modules/@framer/tishogeorgiev.switch/code/canvas.tsx
+node_modules/@framer/tishogeorgiev.switch/code/actions.ts
+node_modules/@framer/tishogeorgiev.switch/code/SwitchToStateAction.tsx
+node_modules/@framer/tishogeorgiev.switch/code/SwitchOverrideExamples.tsx
+node_modules/@framer/tishogeorgiev.switch/code/Switch.tsx
+node_modules/@framer/tishogeorgiev.switch/code/AutoAnimatedState.tsx
+node_modules/@framer/tishogeorgiev.switch/README.md
+node_modules/@framer/steveruizok.drag-and-drop/tsconfig.json
+node_modules/@framer/steveruizok.drag-and-drop/package.json
+node_modules/@framer/steveruizok.drag-and-drop/metadata/icon.png
+node_modules/@framer/steveruizok.drag-and-drop/metadata/artwork.png
+node_modules/@framer/steveruizok.drag-and-drop/index.html
+node_modules/@framer/steveruizok.drag-and-drop/images/cursors/touch@2x.png
+node_modules/@framer/steveruizok.drag-and-drop/images/cursors/touch.png
+node_modules/@framer/steveruizok.drag-and-drop/images/cursors/touch-active@2x.png
+node_modules/@framer/steveruizok.drag-and-drop/images/cursors/touch-active.png
+node_modules/@framer/steveruizok.drag-and-drop/dist/index.js
+node_modules/@framer/steveruizok.drag-and-drop/design/document.json
+node_modules/@framer/steveruizok.drag-and-drop/code/canvas.tsx
+node_modules/@framer/steveruizok.drag-and-drop/code/Examples.tsx
+node_modules/@framer/steveruizok.drag-and-drop/code/DragDrop2Column.tsx
+node_modules/@framer/steveruizok.drag-and-drop/code/DragAndDrop.tsx
+node_modules/@framer/steveruizok.drag-and-drop/code/App.tsx
+node_modules/@framer/steveruizok.drag-and-drop/README.md
+node_modules/@framer/mikejohnson.material-icons/tsconfig.json
+node_modules/@framer/mikejohnson.material-icons/package.json
+node_modules/@framer/mikejohnson.material-icons/metadata/icon.png
+node_modules/@framer/mikejohnson.material-icons/metadata/artwork.png
+node_modules/@framer/mikejohnson.material-icons/design/document.json
+node_modules/@framer/mikejohnson.material-icons/code/MaterialIcon.tsx
+node_modules/@framer/mikejohnson.material-icons/build/index.js
+node_modules/@framer/mikejohnson.material-icons/README.md
+node_modules/@framer/framer.device-skin-dell-xps/yarn.lock
+node_modules/@framer/framer.device-skin-dell-xps/package.json
+node_modules/@framer/framer.device-skin-dell-xps/index.ts
+node_modules/@framer/framer.device-skin-dell-xps/device.png
+node_modules/@framer/framer.device-skin-dell-xps/build/index.js.map
+node_modules/@framer/framer.device-skin-dell-xps/build/index.js
+node_modules/@framer/bzone.ant-design-ui-kit/tsconfig.json
+node_modules/@framer/bzone.ant-design-ui-kit/package.json
+node_modules/@framer/bzone.ant-design-ui-kit/metadata/icon.png
+node_modules/@framer/bzone.ant-design-ui-kit/metadata/artwork.png
+node_modules/@framer/bzone.ant-design-ui-kit/dist/index.js
+node_modules/@framer/bzone.ant-design-ui-kit/design/document.json
+node_modules/@framer/bzone.ant-design-ui-kit/code/common/FormItem.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/canvas.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Other/Divider.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Navigation/Steps.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Navigation/Pagination.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Navigation/Menu.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Navigation/Breadcrumb.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/General/Typography.Title.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/General/Typography.Text.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/General/Typography.Paragraph.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/General/Icon.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/General/Button.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Feedback/Skeleton.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Feedback/Progress.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Feedback/Popconfirm.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Feedback/Notification.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Feedback/Modal.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Feedback/Alert.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Entry/Switch.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Entry/Select.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Entry/InputNumber.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Entry/Input.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Entry/DatePicker.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Entry/DatePicker.WeekPicker.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Entry/DatePicker.RangePicker.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Entry/DatePicker.MonthPicker.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Display/Timeline.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Display/Tag.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Display/Tabs.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Display/Table.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Display/List.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Display/Descriptions.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Display/Card.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Display/Card.css
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Display/Badge.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/Data Display/Avatar.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/code/App.tsx
+node_modules/@framer/bzone.ant-design-ui-kit/_project.framerxproj
+node_modules/@framer/bzone.ant-design-ui-kit/README.md
+node_modules/@framer/bzone.ant-design-ui-kit/CHANGELOG.md
+design/images/Wmuub2qjZFJ2lcDwfRHpL18BAt4.png
+design/images/VUfmrdJGwOjJJFSa8N4eTqcpfgw.png
+design/images/DQHIhQwL2rimDn61IAfRBaxT8I.png
+design/images/7t8pkcRqux3PQrlRvAbsAg9MU.png
+build/vendors.js
+build/framer.js
+index.html
+build/react.development.js
+build/react-dom.development.js
+build/Draft.css
+build/style.css
+build/standalone.js
+images/cursors/touch.png
+images/cursors/touch@2x.png
+images/cursors/touch-active.png
+images/cursors/touch-active@2x.png
