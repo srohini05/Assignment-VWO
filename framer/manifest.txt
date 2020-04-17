@@ -161,10 +161,7 @@ node_modules/@framer/bzone.ant-design-ui-kit/code/App.tsx
 node_modules/@framer/bzone.ant-design-ui-kit/_project.framerxproj
 node_modules/@framer/bzone.ant-design-ui-kit/README.md
 node_modules/@framer/bzone.ant-design-ui-kit/CHANGELOG.md
-design/images/Wmuub2qjZFJ2lcDwfRHpL18BAt4.png
-design/images/VUfmrdJGwOjJJFSa8N4eTqcpfgw.png
 design/images/DQHIhQwL2rimDn61IAfRBaxT8I.png
-design/images/7t8pkcRqux3PQrlRvAbsAg9MU.png
 build/vendors.js
 build/framer.js
 index.html
